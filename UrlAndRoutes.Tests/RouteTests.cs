@@ -81,17 +81,17 @@ namespace UrlAndRoutes.Tests
             Assert.IsTrue(result == null || result.Route == null);
         }
 
-        [TestMethod]
-        public void TestIncomingRoutes()
-        {
-            // 기대하고 있는 URL을 검사한다.
-            TestRouteMatch("~/Admin/Index", "Admin", "Index");
-            TestRouteMatch("~/One/Two", "One", "Two");
-            TestRouteMatch("~/Customer", "Customer", "Index");
+        //[TestMethod]
+        //public void TestIncomingRoutes()
+        //{
+        //    // 기대하고 있는 URL을 검사한다.
+        //    TestRouteMatch("~/Admin/Index", "Admin", "Index");
+        //    TestRouteMatch("~/One/Two", "One", "Two");
+        //    TestRouteMatch("~/Customer", "Customer", "Index");
 
-            // 세그먼트가 너무 많거나 적으면 매치가 실패한다.
-            TestRouteFail("~/Admin/Index/Segment");
-            TestRouteFail("~/Admin");
-        }
+        //    // 세그먼트가 너무 많거나 적으면 매치가 실패한다.
+        //    TestRouteFail("~/Admin/Index/Segment");
+        //    TestRouteFail("~/Admin");
+        //}
     }
 }

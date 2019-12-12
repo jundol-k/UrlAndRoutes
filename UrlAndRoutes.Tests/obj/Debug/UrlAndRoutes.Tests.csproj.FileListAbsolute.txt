@@ -85,3 +85,7 @@ C:\Users\shoki\source\repos\UrlAndRoutes\UrlAndRoutes.Tests\obj\Debug\UrlAndRout
 C:\Users\shoki\source\repos\UrlAndRoutes\UrlAndRoutes.Tests\obj\Debug\UrlAndRoutes.Tests.csproj.CopyComplete
 C:\Users\shoki\source\repos\UrlAndRoutes\UrlAndRoutes.Tests\obj\Debug\UrlAndRoutes.Tests.dll
 C:\Users\shoki\source\repos\UrlAndRoutes\UrlAndRoutes.Tests\obj\Debug\UrlAndRoutes.Tests.pdb
+C:\Users\DA_JUNK\source\repos\UrlAndRoutes\UrlAndRoutes.Tests\bin\Debug\UrlAndRoutes.Tests.dll.config
+C:\Users\DA_JUNK\source\repos\UrlAndRoutes\UrlAndRoutes.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\DA_JUNK\source\repos\UrlAndRoutes\UrlAndRoutes.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\DA_JUNK\source\repos\UrlAndRoutes\UrlAndRoutes.Tests\bin\Debug\ko\System.Web.Helpers.resources.dll

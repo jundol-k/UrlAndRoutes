@@ -6,6 +6,7 @@ using System.Web.Mvc;
 
 namespace UrlAndRoutes.Controllers
 {
+    [RouteArea("Services")]
     [RoutePrefix("Users")]
     public class CustomerController : Controller
     {
@@ -18,7 +19,7 @@ namespace UrlAndRoutes.Controllers
             return View("ActionName");
         }
 
-        [Route("Add/{user}/{id:int}")]
+        [Route("Add/{user}/{id:int}", Name = "AddRoute")]
         public string Create(string user, int id)
         {
             return string.Format("User: {0}, ID: {1}", user, id);

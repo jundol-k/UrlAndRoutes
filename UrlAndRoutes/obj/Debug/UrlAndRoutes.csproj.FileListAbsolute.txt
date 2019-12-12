@@ -147,3 +147,10 @@ C:\Users\shoki\source\repos\UrlAndRoutes\UrlAndRoutes\obj\Debug\UrlAndRoutes.csp
 C:\Users\shoki\source\repos\UrlAndRoutes\UrlAndRoutes\obj\Debug\UrlAndRoutes.csproj.CopyComplete
 C:\Users\shoki\source\repos\UrlAndRoutes\UrlAndRoutes\obj\Debug\UrlAndRoutes.dll
 C:\Users\shoki\source\repos\UrlAndRoutes\UrlAndRoutes\obj\Debug\UrlAndRoutes.pdb
+C:\Users\DA_JUNK\source\repos\UrlAndRoutes\UrlAndRoutes\bin\Antlr3.Runtime.dll
+C:\Users\DA_JUNK\source\repos\UrlAndRoutes\UrlAndRoutes\bin\Newtonsoft.Json.dll
+C:\Users\DA_JUNK\source\repos\UrlAndRoutes\UrlAndRoutes\bin\System.Web.Optimization.dll
+C:\Users\DA_JUNK\source\repos\UrlAndRoutes\UrlAndRoutes\bin\WebGrease.dll
+C:\Users\DA_JUNK\source\repos\UrlAndRoutes\UrlAndRoutes\bin\Antlr3.Runtime.pdb
+C:\Users\DA_JUNK\source\repos\UrlAndRoutes\UrlAndRoutes\bin\Newtonsoft.Json.xml
+C:\Users\DA_JUNK\source\repos\UrlAndRoutes\UrlAndRoutes\bin\System.Web.Optimization.xml
